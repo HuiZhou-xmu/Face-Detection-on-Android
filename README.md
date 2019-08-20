@@ -19,6 +19,6 @@
 
 &#160; &#160; &#160; &#160;The mobile phone is Huawei Mate8, the actual test is as follows:
 
-&#160; &#160; &#160; &#160;![image](https://github.com/HuiZhou-xmu/Face-Detection-on-Android/raw/master/gif/face_detection.gif)
+&#160; &#160; &#160; &#160;![image](https://github.com/PigTS/Face-Detection-on-Android/raw/master/gif/face_detection.gif)
 
 &#160; &#160; &#160; &#160;The effect of the detection is real-time, and it can be basically detected when the side/down/up face is not large. If we are far away from the camera, the effect of detecting tiny faces will be poor.
